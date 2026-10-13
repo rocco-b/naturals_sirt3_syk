@@ -1,0 +1,1 @@
+Bioactivity data for target CHEMBL4461 (NAD-dependent protein deacetylase sirtuin-3, mitochondrial) - IC50

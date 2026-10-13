@@ -1,0 +1,1 @@
+Bioactivity data for target CHEMBL2599 (Tyrosine-protein kinase SYK) - IC50
