@@ -211,7 +211,7 @@ model_packing = {
     'optimal_threshold': optimal_threshold
 }
         
-model_file_name = '3dqsar_model.pkl'
+model_file_name = '3dqsar_rf_model.pkl'
 joblib.dump(model_packing, model_file_name)
       
 print(f"Saved model: '{model_file_name}'")
